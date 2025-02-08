@@ -5,9 +5,9 @@ export const salesData: TokenSale[] = [
     name: 'Silencio',
     address: '0x448537DB42ee64146b67A71E3f9cE835E2d08f30',
     network: 'ethereum',
-    fundsRaisedUSDC: 438151,
-    participants: 134,
-    transactions: 134
+    fundsRaisedUSDC: 1407720,
+    participants: 387,
+    transactions: 387
   },
   {
     name: 'Pulse',
@@ -61,8 +61,8 @@ export const salesData: TokenSale[] = [
     name: 'Nill',
     address: '0x2c0637a66a5031acc0e4cc1cbcd5a4fb9335bf60',
     network: 'ethereum',
-    fundsRaisedUSDC: 205117,
-    participants: 34,
-    transactions: 34
+    fundsRaisedUSDC: 216116,
+    participants: 36,
+    transactions: 36
   }
 ];
