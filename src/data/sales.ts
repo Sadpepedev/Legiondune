@@ -58,7 +58,7 @@ export const salesData: TokenSale[] = [
     transactions: 691
   },
   {
-    name: 'nil',
+    name: '=nil;',
     address: '0x2c0637a66a5031acc0e4cc1cbcd5a4fb9335bf60',
     network: 'ethereum',
     fundsRaisedUSDC: 216116,
