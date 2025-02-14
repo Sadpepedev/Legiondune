@@ -151,4 +151,18 @@ export const tokens: Token[] = [
       twitter: 'https://x.com/Hyperlane_xyz'
     }
   }
+  {
+    id: 'electron',
+    name: 'Electron',
+    status: 'ICO Soon',
+    launchDate: 'TBD',
+    seedPrice: 'TBD',
+    currentPrice: '--',
+    roi: '--',
+    investment: '--',
+    description: 'Reducing TEE and ZK verification costs by 95%.',
+    links: {
+      website: 'https://electron.dev/',
+      twitter: 'https://x.com/electronzk'
+    }
 ];
