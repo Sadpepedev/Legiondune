@@ -1,3 +1,3 @@
-# Legiondune
+Legion ICO tracker 
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Sadpepedev/Legiondune)
+work in progress 
