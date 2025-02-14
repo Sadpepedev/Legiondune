@@ -150,7 +150,7 @@ export const tokens: Token[] = [
       website: 'https://hyperlane.xyz/',
       twitter: 'https://x.com/Hyperlane_xyz'
     }
-  }
+  },
   {
     id: 'electron',
     name: 'Electron',
@@ -165,4 +165,5 @@ export const tokens: Token[] = [
       website: 'https://electron.dev/',
       twitter: 'https://x.com/electronzk'
     }
+},
 ];
