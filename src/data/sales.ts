@@ -53,16 +53,16 @@ export const salesData: TokenSale[] = [
     name: 'Giza',
     address: '0x771895523D41840B3AF6d0ea36be79128F080D52',
     network: 'ethereum',
-    fundsRaisedUSDC: 1561298,
-    participants: 691,
-    transactions: 691
+    fundsRaisedUSDC: 1581798,
+    participants: 695,
+    transactions: 695
   },
   {
     name: '=nil;',
     address: '0x2c0637a66a5031acc0e4cc1cbcd5a4fb9335bf60',
     network: 'ethereum',
-    fundsRaisedUSDC: 216116,
-    participants: 36,
-    transactions: 36
+    fundsRaisedUSDC: 633808,
+    participants: 138,
+    transactions: 138
   }
 ];
