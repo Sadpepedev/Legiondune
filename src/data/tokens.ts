@@ -166,4 +166,19 @@ export const tokens: Token[] = [
       twitter: 'https://x.com/electronzk'
     }
 },
+    {
+    id: 'litprotocol',
+    name: 'Lit Protocol',
+    status: 'ICO Soon',
+    launchDate: 'TBD',
+    seedPrice: 'TBD',
+    currentPrice: '--',
+    roi: '--',
+    investment: '--',
+    description: 'Lit Protocol is the first decentralized key management and private compute network, powering autonomous agents and protocols.',
+    links: {
+      website: 'https://www.litprotocol.com/',
+      twitter: 'https://x.com/LitProtocol'
+    }
+},
 ];
