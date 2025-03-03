@@ -181,4 +181,19 @@ export const tokens: Token[] = [
       twitter: 'https://x.com/LitProtocol'
     }
 },
+     {
+    id: 'Skate',
+    name: 'Skate',
+    status: 'ICO Soon',
+    launchDate: 'TBD',
+    seedPrice: 'TBD',
+    currentPrice: '--',
+    roi: '--',
+    investment: '--',
+    description: 'Skate enables users to interact with applications from any VM while staying on their favorite chain.',
+    links: {
+      website: 'https://www.skatechain.org/',
+      twitter: 'https://x.com/skate_chain'
+    }
+},
 ];
